@@ -1,5 +1,5 @@
 # Image Classification for Sustainable Fashion
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Rhea-15/image_classification.git)
+
 
 This repository contains an AI-powered image classification model to identify the material composition of clothing items from product images. By classifying fabrics as "Natural" or "Synthetic," this project aims to provide consumers with transparent sustainability insights, promoting more responsible purchasing decisions.
 
